@@ -16,13 +16,6 @@ My curiosity and determination assist me when I tackle ambitious projects.
 I hope to create and contribute to some cool projects in the future.
 
 
-## Socials
-
-- Bluesky: [quietengineer.live](https://bsky.app/profile/quietengineer.live)
-- Tangled: [quietengineer.live](https://tangled.sh/@quietengineer.live)
-- GitHub: [QuietEngineer](https://github.com/QuietEngineer)
-
-
 ## Skills
 
 I am most comfortable with programming using Python, Kotlin, and Go.
